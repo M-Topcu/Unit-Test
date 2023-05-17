@@ -1,3 +1,5 @@
+package Day2;
+
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.RepeatedTest;
 

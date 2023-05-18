@@ -1,7 +1,5 @@
 package Day3;
 
-import org.junit.jupiter.api.Test;
-
 public class C01_StringModify {
     //Task : kelimenin ilk 2 harfinde A varsa silinsin
     // kelime icindeki harflerin hepsi buyuk olacak.
